@@ -10,7 +10,7 @@ header {background-color: #002171;
      text-indent: 1em;}
  nav {background-color: #bbdefb;
      font-weight: bold;}
-h1 {font-family: Georgia, 'Times New Roman', serif;}
+h1 {font-family: Georgia, 'Times New Roman', serif; magrin-bottom: 0;}
  h2 {color: #1976d2; font-family: Georgia, 'Times New Roman', serif;}
  h3 {font-family: Georgia, 'Times New Roman', serif;
      color: #000033}
